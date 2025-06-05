@@ -68,19 +68,14 @@ This project aims to improve customer retention and acquisition through data ana
 - Campaign Performance: Join & group by campaigns
 - Revenue Forecasting: Holt-Winters + SARIMA
 - Visualisation: Interactive Plotly Dashboards
-
-----
-
-
+---
 ## 📊 Key Insights
 - 💡 Champions and Loyal Customers generate the most revenue.
 - 📉 At-risk customers need targeted retention efforts.
 - 📈 CLV analysis shows SME and 2W segments are most valuable.
 - 📦 Promotions and campaigns vary significantly in effectiveness.
 - 🔮 Forecasting reveals seasonal revenue trends for better planning.
-
-----
-
+-----
 ## 📚 Project Resources
 - 📁 Download Project Files
 - 📈 View Power BI Dashboard
