@@ -6,6 +6,8 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 -----
 
+
+
 ## 📑 Table of Contents
 - 🚀 Overview
 - ✨ Features
@@ -31,6 +33,8 @@ This project aims to improve customer retention and acquisition through data ana
 
 ----
 
+
+
 ## ✨ Features
 - 🔄 RFM Segmentation (Recency, Frequency, Monetary)
 - 📈 Customer Lifetime Value (CLV) – Historical & Predictive
@@ -43,6 +47,8 @@ This project aims to improve customer retention and acquisition through data ana
 - 📊 Interactive Dashboards using Plotly and Power BI
 
 ----
+
+
 
 ## 🛠 Tools & Technologies
 
@@ -59,6 +65,8 @@ This project aims to improve customer retention and acquisition through data ana
 
 ----
 
+
+
 ## 🧠 How the Code Works
 - Data Cleaning: Remove nulls, duplicates, unify formats
 - RFM Analysis: Calculate RFM scores and segments
@@ -68,14 +76,25 @@ This project aims to improve customer retention and acquisition through data ana
 - Campaign Performance: Join & group by campaigns
 - Revenue Forecasting: Holt-Winters + SARIMA
 - Visualisation: Interactive Plotly Dashboards
+
+
+
 ---
+
+
+
 ## 📊 Key Insights
 - 💡 Champions and Loyal Customers generate the most revenue.
 - 📉 At-risk customers need targeted retention efforts.
 - 📈 CLV analysis shows SME and 2W segments are most valuable.
 - 📦 Promotions and campaigns vary significantly in effectiveness.
 - 🔮 Forecasting reveals seasonal revenue trends for better planning.
------
+
+
+
+---
+
+
 ## 📚 Project Resources
 - 📁 Download Project Files
 - 📈 View Power BI Dashboard
@@ -87,9 +106,13 @@ This project aims to improve customer retention and acquisition through data ana
 
 ----
 
+
 ## 📄 License
-This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
+This project is licensed under the [MIT License](https://github.com/newnaveendhawan/Final-Project-Customer-Retention-and-Acquisition-Analysis/blob/main/LICENSE). Feel free to use, share, and modify with attribution.
+
+
 ----
+
 
 ## 👨‍💻 About the Author
 ### Naveen Dhawan
