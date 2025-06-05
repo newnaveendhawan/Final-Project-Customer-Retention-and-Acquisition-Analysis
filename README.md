@@ -6,7 +6,6 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 ---
 
-
 ## 📑 Table of Contents
 - 🚀 Overview
 - ✨ Features
@@ -19,6 +18,9 @@ A complete data-driven approach to understanding customer behaviour, improving r
 - 📄 License
 - 👨‍💻 About the Author
 
+---
+
+
 ## 🚀 Overview
 This project aims to improve customer retention and acquisition through data analytics and machine learning. It uses real transaction data to: 
 - Segment customers using RFM analysis
@@ -26,6 +28,45 @@ This project aims to improve customer retention and acquisition through data ana
 - Analyse campaign performance
 - Forecast future revenue using time series models
 - Build dashboards for data-driven insights
+
+---
+
+## ✨ Features
+- 🔄 RFM Segmentation (Recency, Frequency, Monetary)
+- 📈 Customer Lifetime Value (CLV) – Historical & Predictive
+- 💼 SME vs. Retail vs. Vehicle Segment Comparison
+- 🧩 K-Means Clustering for Segmentation
+- 📉 Revenue Forecasting (Holt-Winters, SARIMA)
+- 🧪 Promotion Effectiveness & Campaign Analysis
+- 📊 Cohort Retention & Churn Analysis
+- 🔍 Anomaly Detection using Z-scores
+- 📊 Interactive Dashboards using Plotly and Power BI
+
+---
+
+## 🛠️ Tools & Technologies
+- Languages: Python, DAX (Power BI)
+- Libraries: pandas, numpy, seaborn, matplotlib, plotly, scikit-learn, statsmodels
+- Dashboards: Plotly, Power BI
+- ML Models: KMeans, SARIMA, Holt-Winters
+- Data Sources: CSVs from Google Drive
+- Cloud: Google Colab (integration with Drive)
+
+----
+
+## 🧠 How the Code Works
+- Data Cleaning: Remove nulls, duplicates, unify formats
+- RFM Analysis: Calculate RFM scores and segments
+- CLV Modelling: Calculate CLV by customer, region, and vehicle type
+- Clustering: K-Means to group customers
+- Cohort Analysis: Identify churn/retention trends
+- Campaign Performance: Join & group by campaigns
+- Revenue Forecasting: Holt-Winters + SARIMA
+- Visualisation: Interactive Plotly Dashboards
+
+---
+
+## 🌐 Glimpse of Dashboard
 
 ## 👨‍💻 About the Author
 ### Naveen Dhawan
