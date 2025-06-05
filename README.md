@@ -9,16 +9,15 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 
 ## 📑 Table of Contents
-- 🚀 Overview
-- ✨ Features
-- 🛠️ Tools & Technologies
-- 🌐 Glimpse of Dashboards
-- 🧠 How the Code Works
-- 📁 Project Structure
-- 📊 Key Insights
-- 📚 Project Resources
-- 📄 License
-- 👨‍💻 About the Author
+- [🚀 Overview](#-overview)
+- [✨ Features](#-features)
+- [🛠️ Tools & Technologies](#-tools--technologies)
+- [🧠 How the Code Works](#-how-the-Code-Works)
+- [📊 Key Insights](#-Key-Insights)
+- [📚 Project Resources](#-project-resources)
+- [🌐 Glimpse of Dashboard](#-glimpse-of-Dashboard)
+- [📄 License](#-license)
+- [👨‍💻 About the Author](#-about-the-author)
 
 ----
 
@@ -96,15 +95,16 @@ This project aims to improve customer retention and acquisition through data ana
 
 
 ## 📚 Project Resources
-- 📁 Download Project Files
-- 📈 View Power BI Dashboard
-- 📘 View CLV Dashboard (HTML)
-- 📘 View RFM Dashboard (HTML)
+- 📁 [Download Project Files](https://github.com/newnaveendhawan/Final-Project-Customer-Retention-and-Acquisition-Analysis/blob/main/Dataset%20Links%20-%20Project%20Customer%20Retention%20and%20Acquisition%20Analysis%20Project.pdf)
+- 📈 [View Power BI Dashboard](https://github.com/newnaveendhawan/Final-Project-Customer-Retention-and-Acquisition-Analysis/blob/main/Powe%20BI%20Dashboard/Final%20Dashboard%20pdf.pdf)
+- 📘 [Download CLV Dashboard (HTML)](https://github.com/newnaveendhawan/Final-Project-Customer-Retention-and-Acquisition-Analysis/blob/main/Dashboards/clv_dashboard.html)
+- 📘 [Download RFM Dashboard (HTML)](https://github.com/newnaveendhawan/Final-Project-Customer-Retention-and-Acquisition-Analysis/blob/main/Dashboards/rfm_dashboard.html)
 
 
 ## 🌐 Glimpse of Dashboard
 
-![repeated customer dashboard](https://github.com/user-attachments/assets/9ccfaf65-ff0f-41ea-96f9-98a297ee1155)
+![image](https://github.com/user-attachments/assets/9fcc2fa2-02c5-4092-9347-06848001d02b)
+
 
 ----
 
