@@ -4,7 +4,7 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 ![a-sophisticated-conceptual-advertisement_03N8bnHSRUO52a-GgFtKvQ_45ZqU6nDQ82lUOLjEM4D2Q](https://github.com/user-attachments/assets/d4265f17-aaa9-4b7c-9b7f-adb6b1ffa2ab)
 
-----
+-----
 
 ## 📑 Table of Contents
 - 🚀 Overview
@@ -71,32 +71,6 @@ This project aims to improve customer retention and acquisition through data ana
 
 ----
 
-📁 Project Structure
-├── data/
-│   ├── df_Repeated_Orders_unique.csv
-│   ├── df_Customer_Acq.csv
-│   ├── df_All_Channels_Customers.csv
-│   └── CLV-customer_metrics.csv
-│
-├── notebooks/
-│   ├── RFM_Analysis.ipynb
-│   ├── CLV_Analysis.ipynb
-│   ├── Forecasting.ipynb
-│   └── Campaign_Effectiveness.ipynb
-│
-├── dashboards/
-│   ├── rfm_dashboard.html
-│   ├── clv_dashboard.html
-│   └── power_bi_dashboard.pbix
-│
-├── outputs/
-│   ├── promotion_effectiveness.csv
-│   └── total_revenue_forecast.csv
-│
-├── Project_Customer_Retention_and_Acquisition_Analysis.py
-└── README.md
-
-----
 
 ## 📊 Key Insights
 - 💡 Champions and Loyal Customers generate the most revenue.
@@ -116,9 +90,11 @@ This project aims to improve customer retention and acquisition through data ana
 
 ## 🌐 Glimpse of Dashboard
 
+----
 
 ## 📄 License
 This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
+----
 
 ## 👨‍💻 About the Author
 ### Naveen Dhawan
