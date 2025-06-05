@@ -8,18 +8,18 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 
 ## 📑 Table of Contents
-🚀 Overview
-✨ Features
-🛠️ Tools & Technologies
-🌐 Glimpse of Dashboards
-🧠 How the Code Works
-📁 Project Structure
-📊 Key Insights
-📚 Project Resources
-📄 License
-👨‍💻 About the Author
+- 🚀 Overview
+- ✨ Features
+- 🛠️ Tools & Technologies
+- 🌐 Glimpse of Dashboards
+- 🧠 How the Code Works
+- 📁 Project Structure
+- 📊 Key Insights
+- 📚 Project Resources
+- 📄 License
+- 👨‍💻 About the Author
 
-🚀 Overview
+## 🚀 Overview
 This project aims to improve customer retention and acquisition through data analytics and machine learning. It uses real transaction data to: 
 - Segment customers using RFM analysis
 - Predict Customer Lifetime Value (CLV)
