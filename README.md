@@ -4,7 +4,7 @@ A complete data-driven approach to understanding customer behaviour, improving r
 
 ![a-sophisticated-conceptual-advertisement_03N8bnHSRUO52a-GgFtKvQ_45ZqU6nDQ82lUOLjEM4D2Q](https://github.com/user-attachments/assets/d4265f17-aaa9-4b7c-9b7f-adb6b1ffa2ab)
 
----
+----
 
 ## 📑 Table of Contents
 - 🚀 Overview
@@ -18,7 +18,7 @@ A complete data-driven approach to understanding customer behaviour, improving r
 - 📄 License
 - 👨‍💻 About the Author
 
----
+----
 
 
 ## 🚀 Overview
@@ -29,7 +29,7 @@ This project aims to improve customer retention and acquisition through data ana
 - Forecast future revenue using time series models
 - Build dashboards for data-driven insights
 
----
+----
 
 ## ✨ Features
 - 🔄 RFM Segmentation (Recency, Frequency, Monetary)
@@ -42,7 +42,7 @@ This project aims to improve customer retention and acquisition through data ana
 - 🔍 Anomaly Detection using Z-scores
 - 📊 Interactive Dashboards using Plotly and Power BI
 
----
+----
 
 ## 🛠 Tools & Technologies
 
@@ -50,11 +50,11 @@ This project aims to improve customer retention and acquisition through data ana
 |-------------------|-----------------------------------------------------------------|
 | Languages         |  Python, DAX (Power BI)                                         |
 | Libraries         |  pandas, seaborn, matplotlib, plotly, scikit-learn, statsmodels |
-| ML Models         | `KMeans`, `SARIMA`, `Holt-Winters`                              |
-| Dashboarding      | `Plotly Dash`, `Power BI`                                       |
-| Development       | `Python` (Jupyter, Google Colab), `DAX`                         |
-| Version Control   | `Git`, `GitHub`                                                 |
-| Cloud             | `Google Drive`, `CSV`                                           |
+| ML Models         |  KMeans,  SARIMA,  Holt-Winters                                 |
+| Dashboarding      |  Plotly Dash,  Power BI                                         |
+| Development       |  Python  (Jupyter, Google Colab),  DAX                          |
+| Version Control   |  Git ,  GitHub                                                  |
+| Cloud             |  Google Drive,  CSV                                             |
 
 
 ----
@@ -69,9 +69,56 @@ This project aims to improve customer retention and acquisition through data ana
 - Revenue Forecasting: Holt-Winters + SARIMA
 - Visualisation: Interactive Plotly Dashboards
 
----
+----
+
+📁 Project Structure
+├── data/
+│   ├── df_Repeated_Orders_unique.csv
+│   ├── df_Customer_Acq.csv
+│   ├── df_All_Channels_Customers.csv
+│   └── CLV-customer_metrics.csv
+│
+├── notebooks/
+│   ├── RFM_Analysis.ipynb
+│   ├── CLV_Analysis.ipynb
+│   ├── Forecasting.ipynb
+│   └── Campaign_Effectiveness.ipynb
+│
+├── dashboards/
+│   ├── rfm_dashboard.html
+│   ├── clv_dashboard.html
+│   └── power_bi_dashboard.pbix
+│
+├── outputs/
+│   ├── promotion_effectiveness.csv
+│   └── total_revenue_forecast.csv
+│
+├── Project_Customer_Retention_and_Acquisition_Analysis.py
+└── README.md
+
+----
+
+## 📊 Key Insights
+- 💡 Champions and Loyal Customers generate the most revenue.
+- 📉 At-risk customers need targeted retention efforts.
+- 📈 CLV analysis shows SME and 2W segments are most valuable.
+- 📦 Promotions and campaigns vary significantly in effectiveness.
+- 🔮 Forecasting reveals seasonal revenue trends for better planning.
+
+----
+
+## 📚 Project Resources
+- 📁 Download Project Files
+- 📈 View Power BI Dashboard
+- 📘 View CLV Dashboard (HTML)
+- 📘 View RFM Dashboard (HTML)
+
 
 ## 🌐 Glimpse of Dashboard
+
+
+## 📄 License
+This project is licensed under the MIT License. Feel free to use, share, and modify with attribution.
 
 ## 👨‍💻 About the Author
 ### Naveen Dhawan
