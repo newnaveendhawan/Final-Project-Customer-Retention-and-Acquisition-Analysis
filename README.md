@@ -44,13 +44,18 @@ This project aims to improve customer retention and acquisition through data ana
 
 ---
 
-## 🛠️ Tools & Technologies
-- Languages: Python, DAX (Power BI)
-- Libraries: pandas, numpy, seaborn, matplotlib, plotly, scikit-learn, statsmodels
-- Dashboards: Plotly, Power BI
-- ML Models: KMeans, SARIMA, Holt-Winters
-- Data Sources: CSVs from Google Drive
-- Cloud: Google Colab (integration with Drive)
+## 🛠 Tools & Technologies
+
+| Component         | Technologies Used                                               |
+|-------------------|-----------------------------------------------------------------|
+| Languages         |  Python, DAX (Power BI)                                         |
+| Libraries         |  pandas, seaborn, matplotlib, plotly, scikit-learn, statsmodels |
+| ML Models         | `KMeans`, `SARIMA`, `Holt-Winters`                              |
+| Dashboarding      | `Plotly Dash`, `Power BI`                                       |
+| Development       | `Python` (Jupyter, Google Colab), `DAX`                         |
+| Version Control   | `Git`, `GitHub`                                                 |
+| Cloud             | `Google Drive`, `CSV`                                           |
+
 
 ----
 
