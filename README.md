@@ -103,7 +103,8 @@ This project aims to improve customer retention and acquisition through data ana
 
 ## 🌐 Glimpse of Dashboard
 
-![image](https://github.com/user-attachments/assets/9fcc2fa2-02c5-4092-9347-06848001d02b)
+![image](https://github.com/user-attachments/assets/34127e71-f582-4725-bd3b-25c666550c46)
+
 
 
 ----
