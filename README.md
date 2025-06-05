@@ -104,6 +104,8 @@ This project aims to improve customer retention and acquisition through data ana
 
 ## 🌐 Glimpse of Dashboard
 
+![repeated customer dashboard](https://github.com/user-attachments/assets/9ccfaf65-ff0f-41ea-96f9-98a297ee1155)
+
 ----
 
 
@@ -117,6 +119,6 @@ This project is licensed under the [MIT License](https://github.com/newnaveendha
 ## 👨‍💻 About the Author
 ### Naveen Dhawan
 ###### 📧 newnaveendhawan@gmail.com
-###### [💼 LinkedIn](https://www.linkedin.com/in/newnaveendhawan/)
-###### [📁 Portfolio](https://naveendhawanportfolio.blogspot.com/)
+###### [💼 LinkedIn](https://www.linkedin.com/in/newnaveendhawan/) 
+###### [📁 Portfolio](https://naveendhawanportfolio.blogspot.com/) 
 ###### 🎓 BTech – NIT Warangal | Data Analyst | ML Enthusiast | Power BI & Python
